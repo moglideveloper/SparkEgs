@@ -1,0 +1,42 @@
+URUGUAY, Australia, 23
+AUSTRIA, SriLanka, 64
+NORTH, SouthAfrica, 43
+NETHERLANDS ANTILLES, Pakistan, 11
+SRI LANKA, India, 37
+TRINIDAD & TOBAGO, WestIndies, 6
+LIBYA, Pakistan, 54
+IRAQ, Australia, 82
+MAURITIUS, England, 49
+HONDURAS, SriLanka, 60
+CAPE VERDE, Australia, 82
+DJIBOUTI, WestIndies, 83
+WEST BANK, NewZealand, 53
+HONG KONG, Pakistan, 6
+WALLIS AND FUTUNA, Pakistan, 44
+JERSEY, NewZealand, 75
+BHUTAN, England, 45
+JORDAN, Afghanistan, 33
+MARSHALL ISLANDS, Bangladesh, 49
+TURKEY, Pakistan, 19
+SPAIN, Pakistan, 66
+FINLAND, England, 79
+SLOVENIA, Bangladesh, 50
+SOLOMON ISLANDS, Australia, 54
+NICARAGUA, NewZealand, 90
+TRINIDAD & TOBAGO, NewZealand, 57
+SPAIN, SouthAfrica, 28
+MACAU, SouthAfrica, 100
+NEW ZEALAND, Bangladesh, 99
+FRANCE, Bangladesh, 53
+MALDIVES, India, 90
+ARUBA, SriLanka, 45
+REUNION, Bangladesh, 66
+ARMENIA, Australia, 47
+GUINEA-BISSAU, Afghanistan, 49
+EL SALVADOR, Bangladesh, 18
+GUERNSEY, Australia, 36
+BURMA, India, 13
+SOLOMON ISLANDS, India, 94
+MAURITANIA, Australia, 92
+ZIMBABWE, India, 72
+GIBRALTAR, Afghanistan, 19
