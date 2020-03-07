@@ -9,6 +9,7 @@ object SessionApp extends App {
 
   val spark = SparkSession.builder().config(sparkConf).getOrCreate()
 
+  val numbers = List(321, 453, 376, 147)
   val file = "sampleData.txt"
 
   val rdd = spark.sparkContext.textFile( file )
